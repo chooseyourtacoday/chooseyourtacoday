@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chooseyourtacoday
 - 👀 Reading, movies, video games, and now coding
-- 🌱 I’m currently C# and Python
-- 💞️ I’m looking to collaborate on C#
+- 🌱 I’m seeking opportunities in Data Analytics
+- 💞️ I’m looking to expand on SQL, Python, EXCEL, and Tableau
 - 📫 How to reach me ...
 
 <!---
